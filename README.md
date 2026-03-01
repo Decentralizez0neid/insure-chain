@@ -59,6 +59,3 @@ InsureChain memungkinkan komunitas lokal membangun pool likuiditas bersama untuk
 
 ## Cara kontribusi / kontak
 Silakan buka issue atau PR di repo ini untuk fitur, bug, atau diskusi arsitektur.
-
----
-Ringkas dan ambisius — README ini ditujukan sebagai sumber kebenaran awal untuk tim produk dan engineering. Jika Anda ingin versi README yang lebih teknis (termasuk diagram arsitektur dan contoh API), beri tahu saya dan saya akan tambahkan.
